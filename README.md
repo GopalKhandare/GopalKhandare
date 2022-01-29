@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gopal Khandare</h1>
-<h3 align="center">Linux Admin And Devops engineer from india</h3>
+<h3 align="center">Python Developer,Linux Admin And Devops engineer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalkhandare&label=Profile%20views&color=0e75b6&style=flat" alt="gopalkhandare" /> </p>
 
