@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Linux Administrator**
 
-- 🌱 I’m currently learning **DevOps, Agile & Automation Tools**
+- 🌱 I’m currently learning **DevOps, SDLC & Automation Tools**
 
 - 👯 I’m looking to collaborate on **Devops Tools**
 
