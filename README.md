@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gopalkhandare48" target="blank"><img src="https://img.shields.io/twitter/follow/gopalkhandare48?logo=twitter&style=for-the-badge" alt="gopalkhandare48" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps Engineer**
+- 🔭 I’m currently working as a **DevOps Engineer**
 
 - 🌱 I’m currently learning **DevOps, SDLC & Automation Tools**
 
