@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Devops Tools**
 
-- 🤝 I’m looking for help with **Python.Jenkins.Kubernetes and Docker**
+- 🤝 I’m looking for help with **AWS,Azure,GCP,Ansible,Terraform,Python,Jenkins.Kubernetes and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GopalKhandare](https://github.com/GopalKhandare)
 
