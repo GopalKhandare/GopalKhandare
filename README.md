@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Devops Tools**
 
-- 🤝 I’m looking for help with **AWS,Azure,GCP,Ansible,Terraform,Python,Jenkins.Kubernetes and Docker**
+- 🤝 I’m looking for help with **AWS,Azure,GCP,Ansible,Terraform,Python,Jenkins,Kubernetes and Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GopalKhandare](https://github.com/GopalKhandare)
+- 👨‍💻 All of my projects are available at (https://github.com/GopalKhandare)
 
-- 💬 Ask me about **Python,Jenkins,Linux,Docker**
+- 💬 Ask me about **AWS,Azure,GCP,CI/Cd,Python,Jenkins,Linux,Docker**
 
 - 📫 How to reach me **Gopalkhandare486@gmail.com** and Contect me on :- 9167523940/9082942352
 
